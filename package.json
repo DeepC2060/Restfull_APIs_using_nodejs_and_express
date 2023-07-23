@@ -1,0 +1,14 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "this is a demo project to learn rest APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DeepChand",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
